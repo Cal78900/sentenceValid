@@ -55,6 +55,6 @@ result = is_valid_sentence(user_input)
 
 # Display the result
 if result:
-    print("The input is a valid sentence.")
+    print("This is a valid sentence.")
 else:
-    print("The input is not a valid sentence.")
+    print("This is not a valid sentence.")
